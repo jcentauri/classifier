@@ -1,3 +1,0 @@
-pandas==1.1.5
-scikit-learn==0.22.2.post1
-ipywidgets==7.6.3
